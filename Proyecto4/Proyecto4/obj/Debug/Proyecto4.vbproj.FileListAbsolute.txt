@@ -22,3 +22,15 @@ C:\Users\win512\Downloads\App1_Micalculadora-main\App1_Micalculadora-main\Proyec
 C:\Users\win512\Downloads\App1_Micalculadora-main\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.exe
 C:\Users\win512\Downloads\App1_Micalculadora-main\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.xml
 C:\Users\win512\Downloads\App1_Micalculadora-main\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.pdb
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\bin\Debug\Proyecto4.exe.config
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\bin\Debug\Proyecto4.exe
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\bin\Debug\Proyecto4.pdb
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\bin\Debug\Proyecto4.xml
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.Form1.resources
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.Resources.resources
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.exe
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.xml
+C:\Users\win512\Downloads\App1_Micalculadora-main (1)\App1_Micalculadora-main\Proyecto4\Proyecto4\obj\Debug\Proyecto4.pdb

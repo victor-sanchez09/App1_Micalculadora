@@ -43,10 +43,14 @@ Partial Class Form1
         Me.Boton8 = New System.Windows.Forms.Button()
         Me.Boton9 = New System.Windows.Forms.Button()
         Me.Eliminar = New System.Windows.Forms.Button()
+        Me.Butonpunto = New System.Windows.Forms.Button()
+        Me.RadioButton1 = New System.Windows.Forms.RadioButton()
+        Me.RadioButton2 = New System.Windows.Forms.RadioButton()
         Me.SuspendLayout()
         '
         'Num1
         '
+        Me.Num1.Enabled = False
         Me.Num1.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Num1.Location = New System.Drawing.Point(266, 103)
         Me.Num1.Name = "Num1"
@@ -88,6 +92,7 @@ Partial Class Form1
         '
         'Num2
         '
+        Me.Num2.Enabled = False
         Me.Num2.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Num2.Location = New System.Drawing.Point(266, 141)
         Me.Num2.Name = "Num2"
@@ -267,12 +272,48 @@ Partial Class Form1
         Me.Eliminar.Text = "C"
         Me.Eliminar.UseVisualStyleBackColor = True
         '
+        'Butonpunto
+        '
+        Me.Butonpunto.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Butonpunto.Location = New System.Drawing.Point(503, 350)
+        Me.Butonpunto.Name = "Butonpunto"
+        Me.Butonpunto.Size = New System.Drawing.Size(101, 75)
+        Me.Butonpunto.TabIndex = 21
+        Me.Butonpunto.Text = "."
+        Me.Butonpunto.UseVisualStyleBackColor = True
+        '
+        'RadioButton1
+        '
+        Me.RadioButton1.AutoSize = True
+        Me.RadioButton1.Checked = True
+        Me.RadioButton1.Location = New System.Drawing.Point(389, 108)
+        Me.RadioButton1.Name = "RadioButton1"
+        Me.RadioButton1.Size = New System.Drawing.Size(90, 17)
+        Me.RadioButton1.TabIndex = 22
+        Me.RadioButton1.TabStop = True
+        Me.RadioButton1.Text = "RadioButton1"
+        Me.RadioButton1.UseVisualStyleBackColor = True
+        '
+        'RadioButton2
+        '
+        Me.RadioButton2.AutoSize = True
+        Me.RadioButton2.Location = New System.Drawing.Point(389, 150)
+        Me.RadioButton2.Name = "RadioButton2"
+        Me.RadioButton2.Size = New System.Drawing.Size(90, 17)
+        Me.RadioButton2.TabIndex = 23
+        Me.RadioButton2.TabStop = True
+        Me.RadioButton2.Text = "RadioButton2"
+        Me.RadioButton2.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Gold
         Me.ClientSize = New System.Drawing.Size(1000, 604)
+        Me.Controls.Add(Me.RadioButton2)
+        Me.Controls.Add(Me.RadioButton1)
+        Me.Controls.Add(Me.Butonpunto)
         Me.Controls.Add(Me.Eliminar)
         Me.Controls.Add(Me.Boton9)
         Me.Controls.Add(Me.Boton8)
@@ -323,4 +364,7 @@ Partial Class Form1
     Friend WithEvents Boton8 As Button
     Friend WithEvents Boton9 As Button
     Friend WithEvents Eliminar As Button
+    Friend WithEvents Butonpunto As Button
+    Friend WithEvents RadioButton1 As RadioButton
+    Friend WithEvents RadioButton2 As RadioButton
 End Class
